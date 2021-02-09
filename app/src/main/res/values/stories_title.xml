@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="stories_title">
+        <item>Harry Potter</item>
+        <item>One Piece</item>
+        <item>Titanic</item>
+        <item>Interstellar</item>
+        <item>Il etait une fois</item>
+        <item>Le roi Lion</item>
+        <item>Tarzan</item>
+    </string-array>
+</resources>
